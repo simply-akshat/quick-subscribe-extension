@@ -1,10 +1,15 @@
 # Awesome Project
 
-Welcome to our awesome project! This repository contains some cool animations and loaders to enhance your web experience.
+YT-Quick Subscribe
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine.
+The long-This repository hosts the official codebase for the YouTube Quick Subscribe Extension. This extension enables users to conveniently subscribe or unsubscribe to YouTube channels directly from video cards displayed on the YouTube feed. The primary aim is to enhance and curate your YouTube recommendations and "For You Page" (FYP) content on your account.
+
+The extension streamlines the subscription process by allowing users to manage their channel subscriptions seamlessly while browsing the YouTube feed. Its functionality empowers users to fine-tune their content preferences and optimize their viewing experience.
+
+The short- Good to have,not need to have extension.
+
 
 ### Prerequisites
 
@@ -17,5 +22,5 @@ You need to have the following installed on your machine:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/awesome-project.git
-cd awesome-project
+git clone https://github.com/simply-akshat/quick-subscribe-extension.git
+cd quick-subscribe-extension
